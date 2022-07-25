@@ -1,5 +1,5 @@
 <!--
-**Oknn88/Oknn88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Oknn88/Oknn88** is a 🌟 _special_ 🌟 repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Okan.✨✨
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Okan.🌟🌟
 
 Studying software engineering skilled in communication, creative thinking, organization planning.
 
