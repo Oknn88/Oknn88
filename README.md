@@ -32,7 +32,12 @@ Currently living in Izmir, Turkey. Studying software engineering skilled in comm
 
 
 ## Programming Languages:
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://github.com/Oknn88"><img alt="C#" src="https://img.shields.io/badge/-purple?style=flat&logo=c-sharp&logoColor=white"></a>
+<a href="https://github.com/Oknn88"><img alt="C#" src="https://img.shields.io/badge/css-%231572B6.svg?style=flat&logo=css3&logoColor=white"></a>
+<a href="https://github.com/Oknn88"><img alt="C#" src="https://img.shields.io/badge/Microsoft.NET-5C2D91?style=flat&logo=.net&logoColor=white"></a>
+<a href="https://github.com/Oknn88"><img alt="JavaScript" src="https://badges.aleen42.com/src/javascript.svg"></a>
+<a href="https://github.com/Oknn88"><img alt="C#" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white"></a>
 
 ## Software and Tools:
 <p>
