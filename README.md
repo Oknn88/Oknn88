@@ -24,7 +24,7 @@ Currently living in Izmir, Turkey. Studying software engineering skilled in comm
 
 
 ## Connection:
-* [![Gmail](https://img.shields.io/badge/-Okan_Erciyas-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:okanerciyas8@gmail.com)
+* [![Gmail](https://img.shields.io/badge/-Okan_Erciyas-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:okanerciyas8+public@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-Okan_Erciyas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/okan-erciyas-006959192/)
 
 
