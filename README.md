@@ -24,7 +24,7 @@ Currently living in Izmir, Turkey. Studying software engineering skilled in comm
 
 
 ## Connection:
-* [![Gmail](https://img.shields.io/badge/-Okan_Erciyas-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:okanerciyas8+public@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Okan_Erciyas-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:okanerciyas8+public@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-Okan_Erciyas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/okan-erciyas-006959192/)
 
 
@@ -44,8 +44,9 @@ Currently living in Izmir, Turkey. Studying software engineering skilled in comm
  <a href="https://github.com/Oknn88"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"></a>
 
   
-## Databases:
+## Databases and Cloud Hosting:
 <a href="https://github.com/Oknn88"><img alt="SQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white"></a>
+ <a href="https://github.com/cinoxil"><img alt="MongoDB" src ="https://img.shields.io/badge/Mongodb-white.svg?logo=mongodb&logoColor=black"></a>
 
   
 ## Software and Tools:
