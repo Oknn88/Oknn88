@@ -40,11 +40,14 @@ Currently living in Izmir, Turkey. Studying software engineering skilled in comm
 
 ## Frameworks and Libraries:
 <a href="https://github.com/Oknn88"><img alt="CSS" src="https://img.shields.io/badge/css-%231572B6.svg?style=flat&logo=css3&logoColor=white"></a>
-<a href="https://github.com/Oknn88"><img alt=":NET" src="https://img.shields.io/badge/Microsoft.NET-5C2D91?style=flat&logo=.net&logoColor=white"></a>
+<a href="https://github.com/Oknn88"><img alt=".NET" src="https://img.shields.io/badge/Microsoft.NET-5C2D91?style=flat&logo=.net&logoColor=white"></a>
+ <a href="https://github.com/Oknn88"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"></a>
 
+  
 ## Databases:
 <a href="https://github.com/Oknn88"><img alt="SQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white"></a>
 
+  
 ## Software and Tools:
 <p>
   <a href="https://github.com/Oknn88"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
