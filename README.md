@@ -46,7 +46,7 @@ Currently living in Izmir, Turkey. Studying software engineering skilled in comm
   
 ## Databases and Cloud Hosting:
 <a href="https://github.com/Oknn88"><img alt="SQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white"></a>
- <a href="https://github.com/cinoxil"><img alt="MongoDB" src ="https://img.shields.io/badge/Mongodb-white.svg?logo=mongodb&logoColor=black"></a>
+<a href="https://github.com/cinoxil"><img alt="GitHub Pages" src="https://badges.aleen42.com/src/github.svg"></a>
 
   
 ## Software and Tools:
