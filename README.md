@@ -1,26 +1,17 @@
 <!--
-**Oknn88/Oknn88** is a 🌟 _special_ 🌟 repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Oknn88/Oknn88** is a special repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+<h1 align="center">
+  <b>Okan Erciyas</b>
+</h1>
 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Okan.🌟🌟
-
-Currently living in Izmir, Turkey. Studying software engineering skilled in communication, creative thinking, organization planning.
+Hey! I'm Okan Erciyas. Currently living in Izmir, Turkey. Studying software engineering skilled in communication, creative thinking, organization planning.
 
 
 ## Connection:
