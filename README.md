@@ -34,10 +34,16 @@ Currently living in Izmir, Turkey. Studying software engineering skilled in comm
 ## Programming Languages:
 <p align="left"> 
 <a href="https://github.com/Oknn88"><img alt="C#" src="https://img.shields.io/badge/-purple?style=flat&logo=c-sharp&logoColor=white"></a>
-<a href="https://github.com/Oknn88"><img alt="C#" src="https://img.shields.io/badge/css-%231572B6.svg?style=flat&logo=css3&logoColor=white"></a>
-<a href="https://github.com/Oknn88"><img alt="C#" src="https://img.shields.io/badge/Microsoft.NET-5C2D91?style=flat&logo=.net&logoColor=white"></a>
 <a href="https://github.com/Oknn88"><img alt="JavaScript" src="https://badges.aleen42.com/src/javascript.svg"></a>
-<a href="https://github.com/Oknn88"><img alt="C#" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white"></a>
+
+
+
+## Frameworks and Libraries:
+<a href="https://github.com/Oknn88"><img alt="CSS" src="https://img.shields.io/badge/css-%231572B6.svg?style=flat&logo=css3&logoColor=white"></a>
+<a href="https://github.com/Oknn88"><img alt=":NET" src="https://img.shields.io/badge/Microsoft.NET-5C2D91?style=flat&logo=.net&logoColor=white"></a>
+
+## Databases:
+<a href="https://github.com/Oknn88"><img alt="SQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white"></a>
 
 ## Software and Tools:
 <p>
