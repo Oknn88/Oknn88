@@ -15,10 +15,10 @@ Hey! I'm Okan Erciyas. Currently living in Izmir, Turkey. Studying software engi
 
 
 ## Connection:
-[![Gmail](https://img.shields.io/badge/-Okan_Erciyas-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:okanerciyas8+public@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-Okan_Erciyas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/okan-erciyas-006959192/)
-
-
+<p align="center">
+<a href="mailto:okanerciyas8+public@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/okan-erciyas-006959192/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 
 
