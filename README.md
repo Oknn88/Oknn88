@@ -16,7 +16,7 @@ Hey! I'm Okan Erciyas. Currently living in Izmir, Turkey. Studying software engi
 
 ## Connection:
 <p align="center">
-<a href="mailto:okanerciyas8+public@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="mailto:okanerciyas8+github@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://www.linkedin.com/in/okan-erciyas-006959192/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
