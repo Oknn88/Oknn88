@@ -34,6 +34,9 @@ Hey! I'm Okan Erciyas. Currently living in Izmir, Turkey. Studying software engi
 <a href="https://github.com/Oknn88"><img alt=".NET" src="https://img.shields.io/badge/Microsoft.NET-5C2D91?style=flat&logo=.net&logoColor=white"></a>
  <a href="https://github.com/Oknn88"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"></a>
  <a href="https://github.com/Oknn88"><img alt="HTML" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"></a>
+ <a href="https://github.com/Oknn88"><img alt="REACT" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"></a>
+  <a href="https://github.com/Oknn88"><img alt="REACT" src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"></a>
+ 
 
 
   
