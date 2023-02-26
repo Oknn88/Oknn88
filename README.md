@@ -42,6 +42,8 @@ Hey! I'm Okan Erciyas. Currently living in Izmir, Turkey. Studying software engi
   
 ## Databases and Cloud Hosting:
 <a href="https://github.com/Oknn88"><img alt="SQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white"></a>
+<a href="https://github.com/Oknn88"><img alt="SQL" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"></a>
+<a href="https://github.com/Oknn88"><img alt="SQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"></a>
 <a href="https://github.com/Oknn88"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
 <a href="https://github.com/Oknn88"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white"></a>
 
