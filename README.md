@@ -25,17 +25,17 @@ Hey! I'm Okan Erciyas. Currently living in Izmir, Turkey. Studying software engi
 ## Programming Languages:
 <p align="left"> 
 <a href="https://github.com/Oknn88"><img alt="C#" src="https://img.shields.io/badge/-purple?style=flat&logo=c-sharp&logoColor=white"></a>
-<a href="https://github.com/Oknn88"><img alt="JavaScript" src="https://badges.aleen42.com/src/javascript.svg"></a>
+<a href="https://github.com/Oknn88"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"></a>
+<a href="https://github.com/Oknn88"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"></a>
 
 
 
 ## Frameworks and Libraries:
-<a href="https://github.com/Oknn88"><img alt="CSS" src="https://img.shields.io/badge/css-%231572B6.svg?style=flat&logo=css3&logoColor=white"></a>
 <a href="https://github.com/Oknn88"><img alt=".NET" src="https://img.shields.io/badge/Microsoft.NET-5C2D91?style=flat&logo=.net&logoColor=white"></a>
- <a href="https://github.com/Oknn88"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"></a>
- <a href="https://github.com/Oknn88"><img alt="HTML" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"></a>
+ <a href="https://github.com/Oknn88"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"></a>
  <a href="https://github.com/Oknn88"><img alt="REACT" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"></a>
-  <a href="https://github.com/Oknn88"><img alt="REACT" src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"></a>
+ <a href="https://github.com/Oknn88"><img alt="NodeJs" src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"></a>
+ <a href="https://github.com/Oknn88"><img alt="NodeJs" src="https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=nestjs&logoColor=white"></a>
  
 
 
