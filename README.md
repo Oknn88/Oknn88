@@ -45,7 +45,8 @@ Hey! I'm Okan Erciyas. Currently living in Izmir, Turkey. Studying software engi
 <a href="https://github.com/Oknn88"><img alt="SQL" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"></a>
 <a href="https://github.com/Oknn88"><img alt="SQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"></a>
 <a href="https://github.com/Oknn88"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
-<a href="https://github.com/Oknn88"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white"></a>
+<a href="https://github.com/Oknn88"><img alt="GitLab Pages" src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white"></a>
+  <a href="https://github.com/Oknn88"><img alt="Elastic Search" src="https://img.shields.io/badge/Elastic_Search-005571?style=flat&logo=elasticsearch&logoColor=white"></a>
 
 
   
