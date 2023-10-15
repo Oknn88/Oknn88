@@ -11,7 +11,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-Hey! I'm Okan Erciyas. Currently living in Izmir, Turkey. Studying software engineering skilled in communication, creative thinking, and organization planning.
+Hey! I'm Okan Erciyas. Currently living in Izmir, Turkey. Working as a software engineer skilled in communication, creative thinking, and organization planning.
 
 
 ## Connection:
